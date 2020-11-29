@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://lonzo123:lonzo123@carstore.c8rd2.mongodb.net/CarStore?retryWrites=true&w=majority",
+	"jwtSecret": "mysecrettoken"
+}
